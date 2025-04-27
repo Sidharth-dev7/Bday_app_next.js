@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Hapy Bday App</string>
+    <string name="title_activity_main">Hapy Bday App</string>
+    <string name="package_name">com.example.happybday</string>
+    <string name="custom_url_scheme">com.example.happybday</string>
+</resources>
